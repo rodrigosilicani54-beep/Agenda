@@ -47,7 +47,7 @@
 
 <script>
 // --- LINK DO SEU WEB APP ---
-const linkAPI = "https://script.google.com/macros/s/AKfycbznzGbk8NJ3GW_uadO21WXjtFlQhDnalaSWr-cNi-ZeCKHF30Qurc6dHpXyYSAofDZx/exec";
+const linkAPI = "https://script.google.com/macros/s/AKfycbyyuNmMTjHkHrkk-c_QTGulEV47QJg_ySili0H3tlSF789Vknykq2RDDOiXvYAAU46D/exec";
 
 // --- Função para adicionar usuário ---
 async function addUsuario(nomeCompleto, nomeUsuario, senha, nivelAcesso) {
